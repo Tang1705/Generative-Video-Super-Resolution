@@ -8,6 +8,7 @@
 - PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution
 - Asymmetric VAE for One-Step Video Super-Resolution Acceleration
 - Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution
+- Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration
 - OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution
 - DiTVR: Zero-Shot Diffusion Transformer for Video Restoration
 - Semantic and Temporal Integration in Latent Diffusion Space for High-Fidelity Video Super-Resolution
