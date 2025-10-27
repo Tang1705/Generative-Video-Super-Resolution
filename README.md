@@ -2,13 +2,13 @@
 
 ## Diffusion
 
-- FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution
-- UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution
-- InfVSR: Breaking Length Limits of Generic Video Super-Resolution
-- PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution
-- Asymmetric VAE for One-Step Video Super-Resolution Acceleration
-- Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution
-- Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration
+- FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution [paper](https://arxiv.org/abs/2510.12747) [code](https://github.com/OpenImagingLab/FlashVSR)
+- UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution [paper](https://arxiv.org/abs/2510.08143)
+- InfVSR: Breaking Length Limits of Generic Video Super-Resolution [paper](https://arxiv.org/abs/2510.00948) [code](https://github.com/Kai-Liu001/InfVSR)
+- PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Du_PatchVSR_Breaking_Video_Diffusion_Resolution_Limits_with_Patch-wise_Video_Super-Resolution_CVPR_2025_paper.pdf) 
+- Asymmetric VAE for One-Step Video Super-Resolution Acceleration [paper](https://arxiv.org/html/2509.24142v1) [code](https://github.com/JianzeLi-114/FastVSR)
+- Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution [paper](https://arxiv.org/abs/2509.23980) [code](https://github.com/jp-guo/OASIS)
+- Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration [paper](https://arxiv.org/abs/2508.14483) [code](https://github.com/csbhr/Vivid-VR)
 - OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution
 - DiTVR: Zero-Shot Diffusion Transformer for Video Restoration
 - Semantic and Temporal Integration in Latent Diffusion Space for High-Fidelity Video Super-Resolution
