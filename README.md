@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- Aligning Global Semantics and Local Textures in Generative Video Enhancement [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Aligning_Global_Semantics_and_Local_Textures_in_Generative_Video_Enhancement_ICCV_2025_paper.pdf) [code](https://github.com/HiDream-ai/GenVE)
 - FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution [paper](https://arxiv.org/abs/2510.12747) [code](https://github.com/OpenImagingLab/FlashVSR)
 - UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution [paper](https://arxiv.org/abs/2510.08143)
 - InfVSR: Breaking Length Limits of Generic Video Super-Resolution [paper](https://arxiv.org/abs/2510.00948) [code](https://github.com/Kai-Liu001/InfVSR)
