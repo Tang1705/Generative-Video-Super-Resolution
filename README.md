@@ -2,6 +2,9 @@
 
 ## Diffusion
 
+- STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution [paper](https://arxiv.org/pdf/2511.18786) [code](https://github.com/JyChen9811/STCDiT) (TBC)
+- Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features [paper](https://arxiv.org/pdf/2511.16928)
+- Improving Temporal Consistency and Fidelity at Inference-time in Perceptual Video Restoration by Zero-shot Image-based Diffusion Models [paper](https://arxiv.org/pdf/2510.25420)
 - Aligning Global Semantics and Local Textures in Generative Video Enhancement [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Aligning_Global_Semantics_and_Local_Textures_in_Generative_Video_Enhancement_ICCV_2025_paper.pdf) [code](https://github.com/HiDream-ai/GenVE) (TBC)
 - FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution [paper](https://arxiv.org/abs/2510.12747) [code](https://github.com/OpenImagingLab/FlashVSR)
 - UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution [paper](https://arxiv.org/abs/2510.08143)
