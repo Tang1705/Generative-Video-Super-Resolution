@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution [paper] [code](https://github.com/cszy98/DUO-VSR)
 - STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution [paper](https://arxiv.org/pdf/2511.18786) [code](https://github.com/JyChen9811/STCDiT) (TBC)
 - Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features [paper](https://arxiv.org/pdf/2511.16928)
 - Improving Temporal Consistency and Fidelity at Inference-time in Perceptual Video Restoration by Zero-shot Image-based Diffusion Models [paper](https://arxiv.org/pdf/2510.25420)
