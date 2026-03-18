@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation [paper](https://arxiv.org/pdf/2603.16864) [code](https://github.com/taco-group/SparkVSR)
 - DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution [paper] [code](https://github.com/cszy98/DUO-VSR)
 - STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution [paper](https://arxiv.org/pdf/2511.18786) [code](https://github.com/JyChen9811/STCDiT) (TBC)
 - Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features [paper](https://arxiv.org/pdf/2511.16928)
