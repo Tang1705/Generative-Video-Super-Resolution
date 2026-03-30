@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- InstaVSR: Taming Diffusion for Efficient and Temporally Consistent Video Super-Resolution [paper](https://arxiv.org/pdf/2603.26134)
 - SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation [paper](https://arxiv.org/pdf/2603.16864) [code](https://github.com/taco-group/SparkVSR)
 - Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution [paper](https://arxiv.org/pdf/2603.00458)
 - DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution [paper](https://arxiv.org/pdf/2603.22271) [code](https://github.com/cszy98/DUO-VSR)
