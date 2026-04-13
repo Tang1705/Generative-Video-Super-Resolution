@@ -30,7 +30,7 @@
 - LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4×RTX 4090s [paper](https://arxiv.org/abs/2506.08529)
 - Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Self-supervised_ControlNet_with_Spatio-Temporal_Mamba_for_Real-world_Video_Super-resolution_CVPR_2025_paper.pdf) [code](https://github.com/ssj9596/SCST)
 - UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space [paper](https://arxiv.org/abs/2505.19958) [code](https://github.com/yongliuy/UltraVSR)
-- DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a8223b0ad64007423ffb308b0dd92298-Abstract-Conference.html) [code](https://github.com/zhengchen1999/DOVE)
+- DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution [paper](https://openreview.net/pdf?id=DkJImu7t3A) [code](https://github.com/zhengchen1999/DOVE)
 - DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior [paper](https://dl.acm.org/doi/full/10.1145/3721238.3730719)
 - SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training [paper](https://arxiv.org/abs/2506.05301) [code](https://github.com/ByteDance-Seed/SeedVR)
 - DiffVSR: Revealing an Effective Recipe for Taming Robust Video Super-Resolution Against Complex Degradations [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_DiffVSR_Revealing_an_Effective_Recipe_for_Taming_Robust_Video_Super-Resolution_ICCV_2025_paper.pdf) [code](https://github.com/xh9998/DiffVSR)
