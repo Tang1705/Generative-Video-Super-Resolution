@@ -2,6 +2,8 @@
 
 ## Diffusion
 
+- SATB-VR: Training Few-Step Video Restoration Diffusion Model using SNR-Aware Trajectory Blending [paper](https://arxiv.org/pdf/2606.28677)
+- SwiftVR: Real-Time One-Step Generative Video Restoration [paper](https://arxiv.org/pdf/2606.09516)
 - PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_PS-SR_Pseudo-Single-Step_Video_Super-Resolution_via_Speculative_Diffusion_CVPR_2026_paper.pdf)
 - DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yesiltepe_DTG-Restore_Training-Free_Diffusion_Refinement_for_Generative_Video_Super-Resolution_CVPR_2026_paper.pdf)
 - InstaVSR: Taming Diffusion for Efficient and Temporally Consistent Video Super-Resolution [paper](https://arxiv.org/pdf/2603.26134)
