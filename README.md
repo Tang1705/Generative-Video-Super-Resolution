@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution [paper](https://arxiv.org/pdf/2607.22231) [code](https://github.com/Ree1s/TRaM-VSR)
 - SATB-VR: Training Few-Step Video Restoration Diffusion Model using SNR-Aware Trajectory Blending [paper](https://arxiv.org/pdf/2606.28677)
 - SwiftVR: Real-Time One-Step Generative Video Restoration [paper](https://arxiv.org/pdf/2606.09516)
 - PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_PS-SR_Pseudo-Single-Step_Video_Super-Resolution_via_Speculative_Diffusion_CVPR_2026_paper.pdf)
