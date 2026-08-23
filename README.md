@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder [paper](https://openreview.net/pdf?id=WYBM6ES3iH)
 - TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution [paper](https://arxiv.org/pdf/2607.22231) [code](https://github.com/Ree1s/TRaM-VSR)
 - SATB-VR: Training Few-Step Video Restoration Diffusion Model using SNR-Aware Trajectory Blending [paper](https://arxiv.org/pdf/2606.28677)
 - SwiftVR: Real-Time One-Step Generative Video Restoration [paper](https://arxiv.org/pdf/2606.09516)
