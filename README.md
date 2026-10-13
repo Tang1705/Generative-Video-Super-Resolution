@@ -6,6 +6,7 @@
 - MID-VSR: Middle-timestep Distribution Alignment for Prior-Faithful Video Super-Resolution [paper](https://ieeexplore.ieee.org/document/11721202)
 - RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution [paper](https://arxiv.org/pdf/2609.37850)
 - ReCaVSR: One-Step Streaming Diffusion Video Super-Resolution with Recycled Latents and Learned Cache Routing [paper](https://arxiv.org/pdf/2609.37831)
+- FastVR: Efficient Streaming Video Restoration with One-Step Diffusion [paper](https://arxiv.org/pdf/2609.36757)
 - ART-VSR: Adaptive Rectified Trajectories for One-Step Video Super-Resolution [paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6876.pdf)
 - LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution [paper](https://openreview.net/attachment?id=WqowD8RxEk&name=pdf)
 - WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder [paper](https://openreview.net/pdf?id=WYBM6ES3iH)
