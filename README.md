@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching [paper](https://arxiv.org/abs/2610.17552)
 - Taming Noise Initialization for Zero-shot Video Restoration with Image Diffusion Priors [paper](https://ieeexplore.ieee.org/document/11718054)
 - MID-VSR: Middle-timestep Distribution Alignment for Prior-Faithful Video Super-Resolution [paper](https://ieeexplore.ieee.org/document/11721202)
 - RelayVSR: Large-Small Model Collaboration for Efficient Real-World Video Super-Resolution [paper](https://arxiv.org/pdf/2609.37850)
