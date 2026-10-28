@@ -2,6 +2,7 @@
 
 ## Diffusion
 
+- SCOPE-VSR: A Broad-Coverage Training Dataset for Video Super-Resolution [paper](https://arxiv.org/pdf/2610.24604v1)
 - FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching [paper](https://arxiv.org/abs/2610.17552)
 - Taming Noise Initialization for Zero-shot Video Restoration with Image Diffusion Priors [paper](https://ieeexplore.ieee.org/document/11718054)
 - MID-VSR: Middle-timestep Distribution Alignment for Prior-Faithful Video Super-Resolution [paper](https://ieeexplore.ieee.org/document/11721202)
